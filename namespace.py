@@ -3,11 +3,12 @@ a = 0
 n = int(input())
 
 def add(namespace,parent):
-    stess
+    d[self.name].append(self.parent)
     print(namespace,parent)
 
 def create(namespace,var):
-    print(namespace,var)
+    d[self.namespace] = [self.var]
+    print(d)
 
 def get(namespace,var):
     if var in namespace:
